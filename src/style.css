@@ -1,0 +1,44 @@
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  background: #f0f2f4;
+}
+.hero-body {
+  height: 500px;
+  background: #10ac84;
+}
+.articles {
+  margin: 5rem 0;
+  margin-top: -200px;
+}
+.articles .content p {
+  line-height: 1.9;
+  margin: 15px 0;
+}
+
+div.column.is-8:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.article-title {
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 2;
+}
+.article-subtitle {
+  color: #909aa0;
+  margin-bottom: 3rem;
+}
+.article-body {
+  line-height: 1.4;
+  margin: 0 6rem;
+}
+
+.is-correct {
+    background: #55efc4;
+    transition: background 250ms;
+}
+.is-correct:hover {
+    background: #1dd1a1;
+}

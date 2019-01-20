@@ -1,0 +1,16 @@
+{
+  "name": "ugly-to-pretty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Karol Waliszewski",
+  "license": "ISC",
+  "dependencies": {
+    "encoding": "^0.1.12",
+    "html-pdf": "^2.2.0",
+    "iconv": "^2.3.2"
+  }
+}
